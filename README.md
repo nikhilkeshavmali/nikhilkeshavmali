@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mali</h1>
 <h3 align="center">Building Smart Solutions with Code & Creativity</h3>
-<img align="right" width="400" src="https://github.com/rudrabarad/Gifs/blob/main/code.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkeshavmali&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkeshavmali" /> </p>
 
