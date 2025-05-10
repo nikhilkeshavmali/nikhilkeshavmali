@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mali</h1>
 <h3 align="center">Building Smart Solutions with Code & Creativity</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0MoohqHRC_1Nzk-A7GmbQW&ust=1746981821963000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODOqM-smY0DFQAAAAAdAAAAABAE">
+<img align="right" width="400" src="https://github.com/rudrabarad/Gifs/blob/main/code.gif?raw=true">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkeshavmali&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkeshavmali" /> </p>
 
 - 🔭 I’m currently working on **Smart Stock Predictions**
