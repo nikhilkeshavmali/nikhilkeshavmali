@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkeshavmali&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkeshavmali" /> </p>
 
-- 🔭 I’m currently working on **Smart Stock Predictions**
+- 🔭 I’m currently working on **Cocktail Approached for Travel Package Recommendation System**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **Python, MySQL, Java, Php**
 
