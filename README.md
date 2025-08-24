@@ -26,7 +26,7 @@
   <a href="https://twitter.com/yourtwitter" target="blank">
     <img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/yourinstagram" target="blank">
+  <a href="https://www.instagram.com/nikhil_mali_37/?hl=en" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=for-the-badge" />
   </a>
   <a href="https://yourportfolio.com" target="blank">
