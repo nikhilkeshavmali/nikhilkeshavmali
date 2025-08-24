@@ -78,11 +78,5 @@
 
 ---
 
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkeshavmali&theme=radical" />
-</p>
-
----
 
 ⭐️ From [Nikhil Mali](https://github.com/nikhilkeshavmali)
