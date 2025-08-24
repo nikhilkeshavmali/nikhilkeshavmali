@@ -18,7 +18,7 @@
 ---
 
 ### 🔗 Connect with Me
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/nikhil-mali-4038212ab" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
