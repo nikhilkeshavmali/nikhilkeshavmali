@@ -8,11 +8,13 @@
 ---
 
 ### 🌟 About Me
-- 🎓 I’m a **BCA Final Year Student**
+-🔭 Currently focused on: **FullStack (Frontend ⚡ + Backend 💾 + DevOps ⚙️)**
+-🌱 On a mission to master Fullstack Engineering ❤️
 - 💻 Skilled in **Python, Java, C, C++, PHP, JavaScript, React, Django**
-- 📚 Currently learning **Bootstrap & Advanced Web Development**
+- 📚 Currently learning **Vue.js & Node.js**
 - 🚀 Building projects like **Smart Stock Predictions** & **Recommendation Systems**
 - 💼 Looking for **Software Developer / Full Stack Developer roles**
+- 🤯 Fun Fact: == and === — not the same. JS be wild.
 
 ---
 
