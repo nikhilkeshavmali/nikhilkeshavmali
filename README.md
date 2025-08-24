@@ -70,11 +70,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github.com/nikhilkeshavmali/nikhilkeshavmali/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkeshavmali&theme=react-dark&hide_border=true" />
 </p>
-
 
 
 ---
