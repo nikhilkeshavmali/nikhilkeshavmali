@@ -16,9 +16,10 @@
 - 🤯 Fun Fact: In JavaScript, `==` vs `===` can make or break your logic!  
 
 ---
+
 ### 🔗 Connect with Me  
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/nikhil-mali-4038212ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
