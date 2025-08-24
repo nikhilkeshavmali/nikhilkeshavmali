@@ -16,25 +16,26 @@
 - 🤯 Fun Fact: In JavaScript, `==` vs `===` can make or break your logic!  
 
 ---
+### 🔗 Connect with Me  
 
-### 🔗 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/nikhil-mali-4038212ab" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+<p align="center">
+  <a href="https://linkedin.com/in/nikhil-mali-4038212ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nikhilmali27103@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" />
+  <a href="mailto:nikhilmali27103@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourtwitter" target="blank">
-    <img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge" />
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/nikhil_mali_37/" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge" />
+  <a href="https://www.instagram.com/nikhil_mali_37/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?logo=web&style=for-the-badge" />
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
