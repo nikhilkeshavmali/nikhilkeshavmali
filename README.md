@@ -70,12 +70,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilkeshavmali&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=nikhilkeshavmali&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15)]()
-
+  <img src="https://github.com/nikhilkeshavmali/nikhilkeshavmali/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 
 ---
