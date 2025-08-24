@@ -70,14 +70,6 @@
 
 ---
 
-### 🏅 Achievements
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=nikhilkeshavmali&badge=star" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=nikhilkeshavmali&badge=committer" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=nikhilkeshavmali&badge=reviewer" />
-</p>
-
----
 
 ### 📈 Contribution Graph
 <p align="center">
