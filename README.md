@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
----
+
 
 ### 🌟 About Me  
 - 🔭 Currently focused on **Full Stack Development** (Frontend ⚡ + Backend 💾 + DevOps ⚙️)  
@@ -15,17 +15,25 @@
 - 💼 Open to opportunities as a **Software Developer / Full Stack Developer**  
 - 🤯 Fun Fact: In JavaScript, `==` and `===` are *definitely not the same*!  
 
----
-
 ### 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a>
-<a href="https://twitter.com/yourtwitter" target="blank"><img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge" /></a>
-<a href="https://yourportfolio.com" target="blank"><img src="https://img.shields.io/badge/-Portfolio-black?logo=web&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="blank">
+    <img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/yourinstagram" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=for-the-badge" />
+  </a>
+  <a href="https://yourportfolio.com" target="blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?logo=web&style=for-the-badge" />
+  </a>
 </p>
 
----
 
 ### 🛠️ Languages and Tools
 <p align="left">
