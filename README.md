@@ -72,8 +72,9 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilkeshavmali&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilkeshavmali&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
 </p>
+
 
 ---
 
