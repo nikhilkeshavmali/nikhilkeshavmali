@@ -4,17 +4,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 ---
 
-### 🌟 About Me
--🔭 Currently focused on: **FullStack (Frontend ⚡ + Backend 💾 + DevOps ⚙️)**
--🌱 On a mission to master Fullstack Engineering ❤️
-- 💻 Skilled in **Python, Java, C, C++, PHP, JavaScript, React, Django**
-- 📚 Currently learning **Vue.js & Node.js**
-- 🚀 Building projects like **Smart Stock Predictions** & **Recommendation Systems**
-- 💼 Looking for **Software Developer / Full Stack Developer roles**
-- 🤯 Fun Fact: == and === — not the same. JS be wild.
+### 🌟 About Me  
+- 🔭 Currently focused on **Full Stack Development** (Frontend ⚡ + Backend 💾 + DevOps ⚙️)  
+- 🌱 Passionate about mastering **Full Stack Engineering** ❤️  
+- 💻 Skilled in **Python, Java, C, C++, PHP, JavaScript, React, Django**  
+- 📚 Expanding knowledge with **Vue.js & Node.js**  
+- 🚀 Working on projects like **Smart Stock Predictions** & **Recommendation Systems**  
+- 💼 Open to opportunities as a **Software Developer / Full Stack Developer**  
+- 🤯 Fun Fact: In JavaScript, `==` and `===` are *definitely not the same*!  
 
 ---
 
