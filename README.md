@@ -74,22 +74,24 @@
 </p>
 ---
 
-### 📊 GitHub Stats
+
+### ​ GitHub Stats
 
 <p align="center">
   <!-- GitHub Profile Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
+  <!-- GitHub Streak Stats – Using the more reliable Vercel mirror -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
 </p>
 
 ---
+
 
 ### 📈 Contribution Graph
 <p align="center">
