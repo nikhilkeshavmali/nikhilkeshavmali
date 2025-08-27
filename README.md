@@ -74,7 +74,6 @@
 </p>
 
 ---
----
 
 ### 📊 GitHub Stats
 
@@ -87,8 +86,8 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats (NEW working link) -->
+  <img src="https://streak-stats.demolab.com?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
