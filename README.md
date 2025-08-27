@@ -74,22 +74,21 @@
 </p>
 
 ---
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=nikhilkeshavmali&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
