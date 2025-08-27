@@ -72,7 +72,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -86,19 +85,11 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats (NEW working link) -->
-  <img src="https://streak-stats.demolab.com?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- GitHub Contributors (new card) -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=nikhilkeshavmali&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
 </p>
 
 ---
-
-
-
 
 ### 📈 Contribution Graph
 <p align="center">
