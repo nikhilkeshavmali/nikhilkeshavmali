@@ -72,6 +72,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+
 ---
 
 
@@ -89,6 +91,8 @@
   <!-- GitHub Streak Stats – Using the more reliable Vercel mirror -->
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
 </p>
+
+
 
 ---
 
