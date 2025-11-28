@@ -75,30 +75,20 @@
 
 
 ---
-
-
-## 🚀 GitHub Stats
-## 🚀 GitHub Stats
+### ​ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical" height="170" alt="Top Languages"/>
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkeshavmali&theme=radical" height="170" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats – Using the more reliable Vercel mirror -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
 </p>
-
-
-
----
-
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkeshavmali&theme=react-dark&hide_border=true" />
-</p>
-
 
 ---
 
