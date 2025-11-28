@@ -78,11 +78,15 @@
 ### ​ GitHub Stats
 
 <p align="center">
+<p align="center">
+
   <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+
+</p>
 </p>
 
 <p align="center">
