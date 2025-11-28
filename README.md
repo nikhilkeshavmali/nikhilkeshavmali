@@ -110,5 +110,10 @@
   <img src="https://raw.githubusercontent.com/nikhilkeshavmali/nikhilkeshavmali/main/assets/snake.svg" alt="Snake Contribution Graph" />
 </p>
 
+<h2 align="center">📈 GitHub Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkeshavmali&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
 
 ⭐️ From [Nikhil Mali](https://github.com/nikhilkeshavmali)
