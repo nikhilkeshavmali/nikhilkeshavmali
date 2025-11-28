@@ -94,11 +94,16 @@
 </p>
 
 ---
-<h2 align="center">🔥 Contribution Graph</h2>
+<h2>🔥 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Activity Graph"/>
 </p>
 
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhilkeshavmali/nikhilkeshavmali/output/snake.svg" alt="Snake animation" />
+</p>
 
 ⭐️ From [Nikhil Mali](https://github.com/nikhilkeshavmali)
