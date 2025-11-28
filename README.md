@@ -94,23 +94,7 @@
 </p>
 
 ---
-<h2>🔥 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Activity Graph"/>
-</p>
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilkeshavmali/nikhilkeshavmali/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilkeshavmali/nikhilkeshavmali/main/assets/snake.svg" alt="Snake Contribution Graph" />
-</p>
-
-<h2 align="center">📈 GitHub Contribution Graph</h2>
+<h2>📈 GitHub Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkeshavmali&theme=react-dark" alt="GitHub Activity Graph"/>
