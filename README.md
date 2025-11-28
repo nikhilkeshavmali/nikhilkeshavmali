@@ -78,18 +78,17 @@
 
 
 ## 🚀 GitHub Stats
+## 🚀 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical" height="170" alt="Top Languages"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical&hide_border=false" height="180" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkeshavmali&theme=radical" height="170" alt="GitHub Streak"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical&hide_border=false" height="180" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=nikhilkeshavmali&theme=radical&hide_border=false" height="180" alt="GitHub Streak Stats"/>
-
-</div>
 
 
 ---
