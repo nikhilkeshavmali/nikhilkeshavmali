@@ -106,4 +106,9 @@
   <img src="https://raw.githubusercontent.com/nikhilkeshavmali/nikhilkeshavmali/output/snake.svg" alt="Snake animation" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhilkeshavmali/nikhilkeshavmali/main/assets/snake.svg" alt="Snake Contribution Graph" />
+</p>
+
+
 ⭐️ From [Nikhil Mali](https://github.com/nikhilkeshavmali)
