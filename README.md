@@ -77,21 +77,19 @@
 ---
 
 
-### ​ GitHub Stats
+## 🚀 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+<div align="center">
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=radical&hide_border=false" height="180" alt="GitHub Stats"/>
 
-<p align="center">
-  <!-- GitHub Streak Stats – Using the more reliable Vercel mirror -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nikhilkeshavmali&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=radical&hide_border=false" height="180" alt="Top Languages"/>
 
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=nikhilkeshavmali&theme=radical&hide_border=false" height="180" alt="GitHub Streak Stats"/>
+
+</div>
 
 
 ---
