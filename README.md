@@ -9,8 +9,8 @@
 
 ### 🌟 About Me  
 - 🔭 Currently focused on **Full Stack Development** (Frontend ⚡ + Backend 💾 + DevOps ⚙️)  
-- 🌱 Learning & exploring **Vue.js** and **Node.js**  
-- 💻 Skilled in **Python, Java, C, C++, PHP, JavaScript, React, Django, MySQL**  
+- 🌱 Learning & exploring **AWS** and **Docker**  
+- 💻 Skilled in **Python, Java, C, C++, PHP, JavaScript, React, Node.js, Django, MySQL**  
 - 🚀 Projects: **Smart Stock Predictions**, **Recommendation Systems**  
 - 💼 Open to roles: **Software Developer / Full Stack Developer**  
 - 🤯 Fun Fact: In JavaScript, `==` vs `===` can make or break your logic!  
