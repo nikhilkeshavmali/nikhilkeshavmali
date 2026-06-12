@@ -144,7 +144,7 @@ fun_fact   : "JavaScript's == and === have caused more bugs than any other opera
 
 ```mermaid
 mindmap
-  root((Nikhil's 2025 Goals))
+  root((Nikhil's 2026 Goals))
     Frontend
       Advanced React
       Next.js
