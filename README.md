@@ -46,7 +46,7 @@ fun_fact   : "JavaScript's == and === have caused more bugs than any other opera
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mali-4038212ab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhil-portfolio-bay.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhilkeshavmali.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilmali27103@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilkeshavmali)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_mali_37/)
@@ -114,7 +114,7 @@ fun_fact   : "JavaScript's == and === have caused more bugs than any other opera
 
 </div>
 
-> 💡 **More projects on [GitHub](https://github.com/nikhilkeshavmali) & [Portfolio](https://nikhil-portfolio-bay.vercel.app/)**
+> 💡 **More projects on [GitHub](https://github.com/nikhilkeshavmali) & [Portfolio](https://nikhilkeshavmali.vercel.app/)**
 
 ---
 
@@ -195,7 +195,7 @@ mindmap
 ### 📬 Open to Opportunities — Let's Build Something Amazing!
 
 [![Hire Me](https://img.shields.io/badge/💼%20Hire%20Me-7C3AED?style=for-the-badge)](mailto:nikhilmali27103@gmail.com)
-[![View Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f0c29?style=for-the-badge)](https://nikhil-portfolio-bay.vercel.app/)
+[![View Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f0c29?style=for-the-badge)](https://nikhilkeshavmali.vercel.app/)
 
 <br/>
 
