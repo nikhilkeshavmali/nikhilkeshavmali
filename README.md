@@ -117,33 +117,43 @@ fun_fact   : "JavaScript's == and === have caused more bugs than any other opera
 > 💡 **More projects on [GitHub](https://github.com/nikhilkeshavmali) & [Portfolio](https://nikhilkeshavmali.vercel.app/)**
 
 ---
+---
 
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhilkeshavmali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkeshavmali&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkeshavmali&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-## 📈 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkeshavmali&theme=tokyo-night&hide_border=true"/>
-</p>
-## 🏆 GitHub Trophies
+<br>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilkeshavmali&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/nikhilkeshavmali/nikhilkeshavmali/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=nikhilkeshavmali&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkeshavmali&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilkeshavmali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</div>
+
+---
 ---
 ## 🎯 Currently Learning
 
