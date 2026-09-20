@@ -16,30 +16,15 @@ import time
 import urllib.error
 import urllib.request
 from collections import Counter
-from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
+
+from theme import MONO, SANS, THEMES, Theme
 
 API_ROOT = "https://api.github.com"
 OUT_DIR = Path("assets")
 USER = os.getenv("GITHUB_USERNAME", "nikhilkeshavmali")
 TOKEN = os.getenv("GH_TOKEN", "")
-
-ACCENT = "#AA9BEF"
-
-
-@dataclass(frozen=True)
-class Theme:
-    bg: str
-    fg: str
-    muted: str
-    border: str
-
-
-THEMES = {
-    "dark": Theme(bg="#0d1117", fg="#f0f6fc", muted="#8b949e", border="#30363d"),
-    "light": Theme(bg="#ffffff", fg="#24292f", muted="#57606a", border="#d0d7de"),
-}
 
 
 class GitHubError(RuntimeError):
@@ -110,22 +95,52 @@ def fetch_language_totals(user: str, repos: list[dict[str, Any]]) -> Counter:
     return totals
 
 
+# --- hand-drawn line icons (24x24 viewbox, stroke-based, no external assets) ---
+
+_ICON_REPO = (
+    'M4 3.5h13a2 2 0 0 1 2 2v13.5a1 1 0 0 1-1.55.85L14 17l-3.45 2.85A1 1 0 0 1 9 19V6a2 2 0 0 1 2-2'
+)
+_ICON_FOLLOWERS = "M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8ZM4.5 20a7.5 7.5 0 0 1 15 0"
+_ICON_SCAN = "M4 8V5a1 1 0 0 1 1-1h3M17 4h3a1 1 0 0 1 1 1v3M20 16v3a1 1 0 0 1-1 1h-3M7 20H4a1 1 0 0 1-1-1v-3M4 12h16"
+
+ICONS = {"repo": _ICON_REPO, "followers": _ICON_FOLLOWERS, "scan": _ICON_SCAN}
+
+
+def _icon(name: str, x: float, y: float, theme: Theme) -> str:
+    d = ICONS[name]
+    return (
+        f'<g transform="translate({x},{y})">'
+        f'<rect x="0" y="0" width="36" height="36" rx="9" fill="{theme.violet_dim}"/>'
+        f'<path d="{d}" transform="translate(6,6)" fill="none" stroke="{theme.violet}" '
+        f'stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>'
+        f"</g>"
+    )
+
+
 def render_stats_card(theme: Theme, public_repos: str, followers: str, repo_count: str) -> str:
-    rows = []
-    for i, (label, value) in enumerate(
-        [("Public repos", public_repos), ("Followers", followers), ("Repositories scanned", repo_count)]
-    ):
-        y = 112 + i * 54
-        rows.append(
-            f'<text x="48" y="{y}" fill="{theme.muted}" font-family="sans-serif" font-size="15">{label}</text>'
-            f'<text x="470" y="{y}" text-anchor="end" fill="{theme.fg}" '
-            f'font-family="monospace" font-size="18" font-weight="700">{value}</text>'
+    rows = [
+        ("repo", "Public repositories", public_repos),
+        ("followers", "Followers", followers),
+        ("scan", "Repositories scanned for languages", repo_count),
+    ]
+    row_svg = []
+    for i, (icon, label, value) in enumerate(rows):
+        y = 108 + i * 62
+        row_svg.append(_icon(icon, 48, y, theme))
+        row_svg.append(
+            f'<text x="98" y="{y + 15}" fill="{theme.text}" font-family="{SANS}" font-size="15">{label}</text>'
         )
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 290">
-<rect width="520" height="290" rx="18" fill="{theme.bg}" stroke="{theme.border}"/>
-<text x="48" y="52" fill="{theme.fg}" font-family="sans-serif" font-size="20" font-weight="700">GitHub snapshot</text>
-<text x="48" y="76" fill="{ACCENT}" font-family="monospace" font-size="11">@{USER}</text>
-{''.join(rows)}
+        row_svg.append(
+            f'<text x="472" y="{y + 24}" text-anchor="end" fill="{theme.violet}" '
+            f'font-family="{MONO}" font-size="24" font-weight="700">{value}</text>'
+        )
+
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" role="img" aria-label="GitHub snapshot for {USER}">
+<rect width="520" height="300" rx="18" fill="{theme.bg}" stroke="{theme.border}"/>
+<text x="48" y="54" fill="{theme.text}" font-family="{SANS}" font-size="19" font-weight="700">GitHub snapshot</text>
+<text x="48" y="76" fill="{theme.muted}" font-family="{MONO}" font-size="12">@{USER}</text>
+<line x1="48" y1="90" x2="472" y2="90" stroke="{theme.border}"/>
+{''.join(row_svg)}
 </svg>
 """
 
@@ -133,20 +148,32 @@ def render_stats_card(theme: Theme, public_repos: str, followers: str, repo_coun
 def render_lang_card(theme: Theme, items: list[tuple[str, float]]) -> str:
     rows = []
     for i, (name, pct) in enumerate(items):
-        y = 92 + i * 45
-        bar_width = 360 * pct / 100
+        y = 100 + i * 44
+        bar_width = 330 * pct / 100
         rows.append(
-            f'<text x="35" y="{y}" fill="{theme.muted}" font-family="sans-serif" font-size="13">{name}</text>'
+            f'<text x="35" y="{y}" fill="{theme.muted}" font-family="{MONO}" font-size="12">{i + 1:02d}</text>'
+            f'<text x="62" y="{y}" fill="{theme.text}" font-family="{SANS}" font-size="14" font-weight="600">{name}</text>'
             f'<text x="485" y="{y}" text-anchor="end" fill="{theme.muted}" '
-            f'font-family="monospace" font-size="12">{pct:.1f}%</text>'
-            f'<rect x="35" y="{y + 10}" width="360" height="6" rx="3" fill="{theme.border}"/>'
-            f'<rect x="35" y="{y + 10}" width="{bar_width:.1f}" height="6" rx="3" fill="{ACCENT}"/>'
+            f'font-family="{MONO}" font-size="12">{pct:.1f}%</text>'
+            f'<rect x="62" y="{y + 10}" width="330" height="6" rx="3" fill="{theme.border}"/>'
+            f'<rect x="62" y="{y + 10}" width="{bar_width:.1f}" height="6" rx="3" fill="url(#langBar)"/>'
         )
-    height = max(380, 92 + len(items) * 45 + 30)
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 {height}">
+    height = max(360, 100 + len(items) * 44 + 30)
+    empty_state = (
+        f'<text x="35" y="110" fill="{theme.muted}" font-family="{SANS}" font-size="13">'
+        "No language data available</text>"
+    )
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 {height}" role="img" aria-label="Language activity for {USER}">
+<defs>
+  <linearGradient id="langBar" x1="0" x2="1">
+    <stop offset="0" stop-color="{theme.violet}"/>
+    <stop offset="1" stop-color="{theme.amber}"/>
+  </linearGradient>
+</defs>
 <rect width="520" height="{height}" rx="18" fill="{theme.bg}" stroke="{theme.border}"/>
-<text x="35" y="48" fill="{theme.fg}" font-family="sans-serif" font-size="20" font-weight="700">Language activity</text>
-{''.join(rows) if rows else f'<text x="35" y="100" fill="{theme.muted}" font-family="sans-serif" font-size="13">No language data available</text>'}
+<text x="35" y="50" fill="{theme.text}" font-family="{SANS}" font-size="19" font-weight="700">Language activity</text>
+<line x1="35" y1="66" x2="485" y2="66" stroke="{theme.border}"/>
+{''.join(rows) if rows else empty_state}
 </svg>
 """
 
