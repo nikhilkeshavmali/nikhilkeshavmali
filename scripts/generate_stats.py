@@ -10,6 +10,7 @@ Usage:
 """
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import time
@@ -22,7 +23,6 @@ from typing import Any
 from theme import MONO, SANS, THEMES, Theme
 
 API_ROOT = "https://api.github.com"
-OUT_DIR = Path("assets")
 USER = os.getenv("GITHUB_USERNAME", "nikhilkeshavmali")
 TOKEN = os.getenv("GH_TOKEN", "")
 
@@ -179,7 +179,12 @@ def render_lang_card(theme: Theme, items: list[tuple[str, float]]) -> str:
 
 
 def main() -> None:
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--out-dir", default="assets", help="Directory to write SVGs into")
+    args = parser.parse_args()
+
+    out_dir = Path(args.out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     try:
         profile = gh_request(f"/users/{USER}")
@@ -196,16 +201,16 @@ def main() -> None:
         items = []
 
     for mode, theme in THEMES.items():
-        (OUT_DIR / f"card-stats-{mode}.svg").write_text(
+        (out_dir / f"card-stats-{mode}.svg").write_text(
             render_stats_card(theme, public_repos, followers, repo_count), encoding="utf-8"
         )
 
     # metrics.languages.svg has no light/dark pair in the README, so keep dark only
-    (OUT_DIR / "metrics.languages.svg").write_text(
+    (out_dir / "metrics.languages.svg").write_text(
         render_lang_card(THEMES["dark"], items), encoding="utf-8"
     )
 
-    print(f"wrote card-stats-dark.svg, card-stats-light.svg, metrics.languages.svg to {OUT_DIR}/")
+    print(f"wrote card-stats-dark.svg, card-stats-light.svg, metrics.languages.svg to {out_dir}/")
 
 
 if __name__ == "__main__":
