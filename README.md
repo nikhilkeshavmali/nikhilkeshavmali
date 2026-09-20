@@ -12,15 +12,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=900&lines=Nikhil+Mali+%7C+Full+Stack+Developer;React+%7C+MERN+%7C+Python+%7C+Django;Building+AI-Powered+Web+Applications;Turning+Ideas+Into+Working+Software" alt="Typing banner">
 </a>
 
-<br><br>
+<br>
 
 <a href="https://linkedin.com/in/nikhilkeshavmali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 &nbsp;&nbsp;
 <a href="https://nikhilkeshavmali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=AA9BEF" alt="Portfolio"></a>
 &nbsp;&nbsp;
 <a href="https://github.com/nikhilkeshavmali"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=AA9BEF" alt="GitHub"></a>
-
-<br><br>
+<br>
 <img src="https://komarev.com/ghpvc/?username=nikhilkeshavmali&style=flat&color=AA9BEF&label=profile+views" alt="profile views">
 
 </div>
@@ -42,25 +41,23 @@ I enjoy working across the stack — from responsive interfaces and REST APIs to
 - 🔐 JWT authentication and REST APIs
 - 🛠️ Git, GitHub, Postman and Docker
 - 🎓 MCA student focused on software engineering
-
+---
+## 🧰 My stack
 <div align="center">
 
-## 🧰 My stack
+
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,mongodb,postgres,mysql,html,css,tailwind,git,github,docker,vscode&perline=9" alt="Technology stack">
 
 </div>
 
 ---
-
-<div align="center">
-
 ## 📡 Signals
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-<strong>Development Focus</strong><br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
@@ -68,7 +65,6 @@ I enjoy working across the stack — from responsive interfaces and REST APIs to
 </picture>
 </td>
 <td width="50%" align="center" valign="middle">
-<strong>Language Focus</strong><br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
@@ -81,19 +77,25 @@ I enjoy working across the stack — from responsive interfaces and REST APIs to
 </div>
 
 ---
+## 📊 GitHub numbers
 
 <div align="center">
 
-## 📊 GitHub numbers
-
+<table>
+<tr>
+<td>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="520" alt="GitHub statistics">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
 </picture>
+</td>
 
-<br><br>
-<img src="assets/metrics.languages.svg" width="520" alt="GitHub language metrics">
+<td>
+<img src="assets/metrics.languages.svg" width="480" alt="GitHub language metrics">
+</td>
+</tr>
+</table>
 
 </div>
 
